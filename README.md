@@ -4,7 +4,7 @@ QRForge is a full-stack QR code generator with a FastAPI backend and a Next.js f
 
 ## Demo
 
-Live demo: https://your-demo-url.example.com
+Live demo: https://qrforge-app.vercel.app/
 
 ## Screenshots
 
