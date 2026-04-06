@@ -2,7 +2,6 @@
 ![Next.js](https://img.shields.io/badge/Next.js-14-black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green)
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
-![License](https://img.shields.io/badge/License-MIT-blue)
 
 QRForge is a full-stack QR code generator with a FastAPI backend and a Next.js frontend. It lets you validate URLs, generate live QR previews, and download QR codes as PNG or SVG with customizable colors, size, and filename.
 
