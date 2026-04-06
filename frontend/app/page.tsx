@@ -3,11 +3,8 @@
 import { useState, useEffect, useRef } from "react";
 import s from "./page.module.css";
 
-const API =
-  process.env.NEXT_PUBLIC_API_URL ||
-  (process.env.NODE_ENV === "development"
-    ? "http://localhost:8000"
-    : "");
+const API = "/api";
+
 type Size = "small" | "medium" | "large";
 
 interface Cfg {
